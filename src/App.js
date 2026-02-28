@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <p>Hey boo, eu amo-te muito ❤️</p>
+      <p>Hey boo, eu amo-te muito </p>
     </div>
   );
 }
